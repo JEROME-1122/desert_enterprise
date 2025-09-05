@@ -1,0 +1,3003 @@
+@media only screen and (max-width: 2600px) and (min-width: 1999px) {
+
+    .quicktelhead,
+    .quickemailhead,
+    .locpohead,
+    .loccodehead,
+    .quickteltext,
+    .quickemailtext,
+    .locpotext,
+    .loccodetext,
+    .cont1text1,
+    .cont1text2,
+    .cont2part2text,
+    .valuetext1,
+    .valuetext2,
+    .cont4text,
+    .calltext,
+    .busitext,
+    .fottmailtext,
+    .footloctext,
+    .companydec,
+    .footabout dl dd,
+    .event dl dd,
+    .copyrighttext {
+        font-size: 18px;
+    }
+
+    #navitem1,
+    #navitem2,
+    #navitem3,
+    #navitem4,
+    #navitem5,
+    #navitem6,
+    #navitem7 {
+        font-size: 18px;
+        margin-right: 20px;
+    }
+
+    .banslidimg {
+        width: 100%;
+        height: 100%;
+        margin-top: 90px;
+    }
+
+    .bannerbotimg {
+        height: 200px;
+        width: 400px;
+        margin-top: -130px;
+    }
+
+    .cont1 {
+        margin-top: 50px
+    }
+
+    .cont1head {
+        font-size: 50px;
+    }
+
+    .cont1subhead {
+        font-size: 31px;
+    }
+
+    .cont1rightimg {
+        width: 415.99px;
+        height: 459.25px;
+    }
+
+    .cont1text2 {
+        margin-left: -25px;
+    }
+
+    .cont1text1,
+    .cont1text2 {
+        width: 90%;
+    }
+
+    .rightimgtext {
+        font-size: 20px;
+        margin-top: 70%;
+        width: 70%;
+    }
+
+
+
+
+
+
+    .cont3part3img {
+        margin-top: 90px;
+        height: 90px;
+        width: 90px;
+        margin-bottom: 90px;
+    }
+
+    .cont2part3 {
+        margin-top: 68px;
+        width: 60%;
+    }
+
+    .cont3,
+    .cont4 {
+        margin-top: 80px;
+    }
+
+    .valuehead {
+        font-size: 50px;
+    }
+
+    .cont4part2img1,
+    .cont4part2img2,
+    .cont4part2img3 {
+        width: 100%;
+    }
+
+    .footlocimg {
+        width: 14px;
+        height: 20px;
+    }
+
+    .busiimg {
+        width: 14px;
+        height: 17px;
+    }
+
+    .callimg {
+        width: 15px;
+        height: 15px;
+        margin-top: 5px;
+    }
+
+    .footmailimg {
+        width: 20px;
+        height: 16px;
+        margin-top: 5px;
+    }
+
+    .footlogo {
+        margin-bottom: 10px;
+    }
+
+    .footabout,
+    .event,
+    .socialmediasec {
+        margin-top: 30px;
+    }
+
+    .footabout dl dt,
+    .event dl dt,
+    .socialmediasec dt {
+        font-size: 17px;
+    }
+
+    .socialmediasec dt {
+        margin-bottom: 10px;
+    }
+
+    .footfbimg {
+        width: 13px;
+        height: 24px;
+        margin-left: 10px;
+    }
+
+    .foottwtimg,
+    .footinstaimg {
+        width: 24px;
+        height: 24px;
+    }
+
+}
+
+@media only screen and (max-width: 1999px) and (min-width: 1699px) {
+
+
+    .quicktelhead,
+    .quickemailhead,
+    .locpohead,
+    .loccodehead,
+    .quickteltext,
+    .quickemailtext,
+    .locpotext,
+    .loccodetext,
+    .cont1text1,
+    .cont1text2,
+    .cont2part2text,
+    .valuetext1,
+    .valuetext2,
+    .cont4text,
+    .calltext,
+    .busitext,
+    .fottmailtext,
+    .footloctext,
+    .companydec,
+    .footabout dl dd,
+    .event dl dd,
+    .copyrighttext {
+        font-size: 17px;
+    }
+
+    #navitem1,
+    #navitem2,
+    #navitem3,
+    #navitem4,
+    #navitem5,
+    #navitem6,
+    #navitem7 {
+        font-size: 17px;
+    }
+
+    .banslidimg {
+        margin-top: 90px
+    }
+
+    .bannerbotimg {
+        height: 180px;
+        width: 380px;
+    }
+
+    .cont1 {
+        margin-top: 50px;
+    }
+
+    .cont1head {
+        font-size: 50px;
+    }
+
+    .cont1subhead {
+        font-size: 29px;
+    }
+
+    .cont1text2 {
+        margin-left: -25px;
+    }
+
+    .cont1text1,
+    .cont1text2 {
+        width: 90%;
+    }
+
+    .cont1rightimg {
+        width: 415.99px;
+        height: 459.25px;
+    }
+
+
+    .banner_next_section_text_bg {
+        margin-top: 15%;
+    }
+
+    .cont2 {
+        margin-top: 250px;
+    }
+
+    .rightimgtext {
+        font-size: 20px;
+        margin-top: 70%;
+        width: 70%;
+    }
+
+    .cont2part1 {
+        width: 650px;
+        height: 212px;
+    }
+
+    .cont2part1img {
+        margin-left: 235px;
+        width: 400px;
+        margin-top: -450px;
+    }
+
+    .cont2part2bg {
+        margin-top: -23px;
+    }
+
+    .cont2partimg {
+        margin-top: 90px;
+        height: 70px;
+        width: 120px;
+        margin-bottom: 90px;
+    }
+
+    .cont3part3img {
+        margin-top: 90px;
+        height: 90px;
+        width: 90px;
+        margin-bottom: 90px;
+    }
+
+    .cont2part3 {
+        margin-top: 115px;
+        height: 400px;
+    }
+
+    .valuehead {
+        font-size: 48px;
+    }
+
+    .cont3,
+    .cont4 {
+        margin-top: 80px;
+    }
+
+
+    .cont4part2img1,
+    .cont4part2img2,
+    .cont4part2img3 {
+        width: 100%;
+    }
+
+    .footlocimg {
+        width: 14px;
+        height: 20px;
+    }
+
+    .busiimg {
+        width: 14px;
+        height: 17px;
+    }
+
+    .callimg {
+        width: 15px;
+        height: 16px;
+        margin-top: 2px;
+    }
+
+
+    .footmailimg {
+        width: 20px;
+        height: 14px;
+        margin-top: 5px;
+    }
+
+    .footlogo {
+        margin-bottom: 10px;
+    }
+
+    .footabout,
+    .event,
+    .socialmediasec {
+        margin-top: 30px;
+    }
+
+    .footabout dl dt,
+    .event dl dt,
+    .socialmediasec dt {
+        font-size: 15px;
+    }
+
+    .socialmediasec dt {
+        margin-bottom: 10px;
+    }
+
+    .footfbimg {
+        width: 11px;
+        height: 21px;
+        margin-left: 10px;
+    }
+
+    .foottwtimg,
+    .footinstaimg {
+        width: 21px;
+        height: 21px;
+    }
+}
+
+@media only screen and (max-width: 1699px) and (min-width: 1441px) {
+
+
+    .quicktelhead,
+    .quickemailhead,
+    .locpohead,
+    .loccodehead,
+    .quickteltext,
+    .quickemailtext,
+    .locpotext,
+    .loccodetext,
+    .cont1text1,
+    .cont1text2,
+    .cont2part2text,
+    .valuetext1,
+    .valuetext2,
+    .cont4text,
+    .calltext,
+    .busitext,
+    .fottmailtext,
+    .footloctext,
+    .companydec,
+    .footabout dl dd,
+    .event dl dd,
+    .copyrighttext {
+        font-size: 17px;
+    }
+
+
+
+    /* .logoimg {} */
+
+    #navitem1,
+    #navitem2,
+    #navitem3,
+    #navitem4,
+    #navitem5,
+    #navitem6,
+    #navitem7 {
+        font-size: 17px;
+        margin-right: 10px;
+
+    }
+
+    .banslidimg {
+        margin-top: 90px;
+    }
+
+    .bannerbotimg {
+        height: 180px;
+        width: 380px;
+    }
+
+    .cont1 {
+        margin-top: 50px;
+    }
+
+    .cont1head {
+        font-size: 50px;
+    }
+
+    .cont1subhead {
+        font-size: 29px;
+    }
+
+    .cont1text1,
+    .cont1text2 {
+        width: 85%;
+    }
+
+
+    .cont1rightimg {
+        width: 415.99px;
+        height: 459.25px;
+    }
+
+
+    .banner_next_section_text_bg {
+        top: 50%;
+    }
+
+    .cont2 {
+        margin-top: 250px;
+    }
+
+    .rightimgtext {
+        font-size: 20px;
+        margin-top: 70%;
+        width: 70%;
+    }
+
+    .cont1,
+    .cont3,
+    .cont4 {
+        margin-top: 50px;
+    }
+
+    .cont1text2 {
+        margin-left: -25px;
+    }
+
+    .cont1text1,
+    .cont1text2 {
+        width: 90%;
+    }
+
+    .cont2part1 {
+        width: 100%;
+        height: 250px;
+    }
+
+    .cont2 {
+        margin-top: 150px;
+    }
+
+    .cont2part1img {
+        margin-left: 200px;
+        right: 0;
+        width: 350px;
+        margin-top: -350px;
+    }
+
+    .cont2part2bg {
+        margin-top: 86px;
+        width: 100%;
+
+    }
+
+    .cont2partimg {
+        margin-top: 60px;
+        height: 55px;
+        width: 110px;
+        margin-bottom: 60px;
+    }
+
+    .cont3part3img {
+        margin-top: 90px;
+        height: 90px;
+        width: 90px;
+        margin-bottom: 50px;
+    }
+
+    .cont2part3 {
+        margin-top: 212px;
+        width: 50%;
+        height: 340px;
+    }
+
+    .valuehead {
+        font-size: 48px;
+    }
+
+    .cont4part2img1,
+    .cont4part2img2,
+    .cont4part2img3 {
+        width: 100%;
+    }
+
+
+    .footlocimg {
+        width: 14px;
+        height: 20px;
+    }
+
+    .busiimg {
+        width: 14px;
+        height: 17px;
+    }
+
+    .callimg {
+        width: 15px;
+        height: 16px;
+        padding-top: 5px;
+    }
+
+
+    .footmailimg {
+        width: 20px;
+        height: 16px;
+        margin-top: 1px;
+    }
+
+    .footlogo {
+        margin-bottom: 10px;
+    }
+
+    .footabout,
+    .event,
+    .socialmediasec {
+        margin-top: 30px;
+    }
+
+    .footabout dl dt,
+    .event dl dt,
+    .socialmediasec dt {
+        font-size: 15px;
+    }
+
+    .socialmediasec dt {
+        margin-bottom: 10px;
+    }
+
+    .footfbimg {
+        width: 11px;
+        height: 21px;
+        margin-left: 10px;
+    }
+
+    .foottwtimg,
+    .footinstaimg {
+        width: 21px;
+        height: 21px;
+    }
+
+    .footlocimg {
+        width: 14px;
+        height: 20px;
+    }
+
+    .busiimg {
+        width: 14px;
+        height: 17px;
+    }
+
+    .callimg {
+        width: 15px;
+        height: 17px;
+        margin-top: 1px;
+    }
+
+
+    .footmailimg {
+        width: 20px;
+        height: 16px;
+        margin-top: 1px;
+    }
+
+    .footlogo {
+        margin-bottom: 10px;
+    }
+
+    .footabout,
+    .event,
+    .socialmediasec {
+        margin-top: 30px;
+    }
+
+    .footabout dl dt,
+    .event dl dt,
+    .socialmediasec dt {
+        font-size: 15px;
+    }
+
+    .socialmediasec dt {
+        margin-bottom: 10px;
+    }
+
+    .footfbimg {
+        width: 11px;
+        height: 21px;
+        margin-left: 10px;
+    }
+
+    .foottwtimg,
+    .footinstaimg {
+        width: 21px;
+        height: 21px;
+    }
+}
+
+@media only screen and (max-width: 1440px) and (min-width: 1201px) {
+
+    .quicktelhead,
+    .quickemailhead,
+    .locpohead,
+    .loccodehead,
+    .quickteltext,
+    .quickemailtext,
+    .locpotext,
+    .loccodetext,
+    .cont1text1,
+    .cont1text2,
+    .cont2part2text,
+    .valuetext1,
+    .valuetext2,
+    .cont4text,
+    .calltext,
+    .busitext,
+    .fottmailtext,
+    .footloctext,
+    .companydec,
+    .footabout dl dd,
+    .event dl dd,
+    .copyrighttext {
+        font-size: 15px;
+    }
+
+    #navitem1,
+    #navitem2,
+    #navitem3,
+    #navitem4,
+    #navitem5,
+    #navitem6,
+    #navitem7 {
+        font-size: 15px;
+
+    }
+
+    .bannerbotimg {
+        height: 160px;
+        width: 360px;
+    }
+
+
+    .banslidimg {
+        margin-top: 90px
+    }
+
+
+    .cont1head {
+        font-size: 40px;
+    }
+
+    .cont1subhead {
+        font-size: 24px;
+    }
+
+    /* .cont1text1,
+    .cont1text2 {
+        width: 85% ;
+
+    } */
+
+    .cont1text2 {
+        margin-left: -25px;
+    }
+
+    .cont1text1,
+    .cont1text2 {
+        width: 90%;
+    }
+
+    .cont1,
+    .cont3,
+    .cont4 {
+        margin-top: 50px;
+    }
+
+    .cont1rightimg {
+        width: 356px;
+        height: 393.024px;
+    }
+
+
+    .banner_next_section_text_bg {
+        top: 50%;
+    }
+
+    .cont2 {
+        margin-top: 250px;
+    }
+
+    .rightimgtext {
+        font-size: 20px;
+        margin-top: 70%;
+        width: 70%;
+    }
+
+    .banner_next_section_text_bg {
+        margin-top: 10%;
+    }
+
+    .cont2 {
+        margin-top: 150px;
+    }
+
+    .cont2part1 {
+        width: 100%;
+        height: 180px;
+        margin-top: 200px;
+    }
+
+    .cont2part1img {
+
+        width: 300px;
+        right: 0;
+        margin-top: -300px;
+    }
+
+    .cont2part2bg {
+        margin-top: 5px;
+        width: 100%;
+
+    }
+
+    .cont2part2text {
+        margin-bottom: 50px;
+    }
+
+    .cont2partbottmimg {
+        width: 100%;
+    }
+
+    .cont2partimg {
+        margin-top: 50px;
+        height: 50px;
+        width: 80px;
+        margin-bottom: 50px;
+    }
+
+    .cont3part3img {
+        margin-top: 50px;
+        height: 80px;
+        width: 80px;
+        margin-bottom: 50px;
+    }
+
+    .cont2part3 {
+        margin-top: 81px;
+        width: 50%;
+        height: 300px;
+    }
+
+    .cont3,
+    .cont4 {
+        margin-top: 50px;
+    }
+
+    .valuehead {
+        font-size: 40px;
+    }
+
+    .footcont {
+        width: 100%;
+    }
+
+    .cont4part2img1,
+    .cont4part2img2,
+    .cont4part2img3 {
+        width: 100%;
+    }
+
+    .footlocimg {
+        width: 12px;
+        height: 17px;
+    }
+
+    .busiimg {
+        width: 13px;
+        height: 16px;
+    }
+
+    .callimg {
+        width: 13px;
+        height: 13px;
+        margin-top: 2px;
+    }
+
+
+    .footmailimg {
+        width: 18px;
+        height: 12px;
+        margin-top: 4px;
+    }
+
+    .footlogo {
+        margin-bottom: 10px;
+    }
+
+    .footabout,
+    .event,
+    .socialmediasec {
+        margin-top: 30px;
+    }
+
+    .footabout dl dt,
+    .event dl dt,
+    .socialmediasec dt {
+        font-size: 13px;
+    }
+
+    .socialmediasec dt {
+        margin-bottom: 10px;
+    }
+
+    .footfbimg {
+        width: 10px;
+        height: 21px;
+        margin-left: 10px;
+    }
+
+    .foottwtimg,
+    .footinstaimg {
+        width: 20px;
+        height: 20px;
+    }
+
+    .container1 .card .content p {
+        font-size: 16px;
+        margin-top: 15px;
+    }
+
+    .container1 .card:hover {
+        height: 225px;
+        margin-top: -10px
+    }
+
+}
+
+@media only screen and (max-width: 1200px) and (min-width: 1025px) {
+
+    .quicktelhead,
+    .quickemailhead,
+    .locpohead,
+    .loccodehead,
+    .quickteltext,
+    .quickemailtext,
+    .locpotext,
+    .loccodetext,
+    .cont1text1,
+    .cont1text2,
+    .cont2part2text,
+    .cont2part3text,
+    .valuetext1,
+    .valuetext2,
+    .cont4text,
+    .calltext,
+    .busitext,
+    .fottmailtext,
+    .footloctext,
+    .companydec,
+    .footabout dl dd,
+    .event dl dd,
+    .copyrighttext {
+        font-size: 14px;
+    }
+
+    .cont1,
+    .cont3,
+    .cont4 {
+        margin-top: 50px;
+    }
+
+    #navitem1,
+    #navitem2,
+    #navitem3,
+    #navitem4,
+    #navitem5,
+    #navitem6,
+    #navitem7 {
+        font-size: 14px;
+    }
+
+    .bannerbotimg {
+        height: 130px;
+        width: 330px;
+        margin-left: 55%;
+        margin-top: -70px;
+    }
+
+    .banslidimg {
+        margin-top: 90px
+    }
+
+
+    .cont1head {
+        font-size: 35px;
+    }
+
+    .cont1subhead {
+        font-size: 20px;
+    }
+
+    .cont1text1,
+    .cont1text2 {
+        width: 90%;
+
+    }
+
+    .cont1text2 {
+        margin-left: -10px;
+    }
+
+    .rightimgtext {
+        font-size: 18px;
+        margin-top: 80px;
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .banner_next_section_text_bg {
+        width: 110px;
+        height: 125px;
+        top: 10%;
+        margin-left: -50px;
+    }
+
+
+    .cont1rightimg {
+        width: 296px;
+        height: 326.784px;
+    }
+
+
+    .banner_next_section_text_bg {
+        margin-top: 50%;
+    }
+
+    .rightimgtext {
+        font-size: 19px;
+        margin-top: 70%;
+        width: 70%;
+    }
+
+
+    .cont2 {
+        margin-top: 100px;
+    }
+
+    .cont2part1 {
+        width: 100%;
+        height: 180px;
+        margin-top: 200px;
+    }
+
+    .cont2part1img {
+        width: 250px;
+        right: 0;
+        margin-top: -250px;
+    }
+
+    .cont2part2bg {
+        margin-top: 35px;
+        width: 100%;
+    }
+
+    .cont2part2text {
+        margin-bottom: 50px;
+    }
+
+    .cont2partbottmimg {
+        width: 100%;
+    }
+
+    .cont2partimg {
+        margin-top: 50px;
+        height: 50px;
+        width: 80px;
+        margin-bottom: 50px;
+    }
+
+    .cont3part3img {
+        margin-top: 50px;
+        height: 70px;
+        width: 70px;
+        margin-bottom: 50px;
+
+    }
+
+    .cont2part3 {
+        margin-top: 130px;
+        width: 60%;
+        height: 252px;
+    }
+
+    .valuehead {
+        font-size: 35px;
+    }
+
+    .imgsec1 {
+        max-width: 400px;
+    }
+
+    .cont4part1img {
+        height: 100%;
+    }
+
+    .footlocimg {
+        width: 12px;
+        height: 17px;
+    }
+
+    .busiimg {
+        width: 13px;
+        height: 16px;
+    }
+
+    .callimg {
+        width: 13px;
+        height: 13px;
+        margin-top: 2px;
+    }
+
+
+    .footmailimg {
+        width: 18px;
+        height: 12px;
+        margin-top: 4px;
+    }
+
+    .footlogo {
+        margin-bottom: 10px;
+    }
+
+    .footabout,
+    .event,
+    .socialmediasec {
+        margin-top: 30px;
+    }
+
+    .footabout dl dt,
+    .event dl dt,
+    .socialmediasec dt {
+        font-size: 13px;
+    }
+
+    .socialmediasec dt {
+        margin-bottom: 10px;
+    }
+
+    .footfbimg {
+        width: 10px;
+        height: 21px;
+        margin-left: 10px;
+    }
+
+    .foottwtimg,
+    .footinstaimg {
+        width: 20px;
+        height: 20px;
+    }
+
+    .container1 .card .content p {
+        font-size: 13px;
+        margin-top: 15px;
+    }
+
+    .container1 .card:hover {
+        height: 180px;
+        margin-top: -25px
+    }
+
+    .container1 .card {
+        height: 110px;
+    }
+
+    .container1 {
+        margin-top: 18%;
+    }
+
+
+}
+
+@media only screen and (max-width: 1024px) and (min-width: 992px) {
+
+
+    .quicktelhead,
+    .quickemailhead,
+    .locpohead,
+    .loccodehead,
+    .quickteltext,
+    .quickemailtext,
+    .locpotext,
+    .loccodetext,
+    .cont1text1,
+    .cont1text2,
+    .cont2part2text,
+    .cont2part3text,
+    .valuetext1,
+    .valuetext2,
+    .cont4text,
+    .calltext,
+    .busitext,
+    .fottmailtext,
+    .footloctext,
+    .companydec,
+    .footabout dl dd,
+    .event dl dd,
+    .copyrighttext {
+        font-size: 15px;
+    }
+
+    #navitem1,
+    #navitem2,
+    #navitem3,
+    #navitem4,
+    #navitem5,
+    #navitem6,
+    #navitem7 {
+        font-size: 15px;
+    }
+
+    .mbl {
+        display: block;
+    }
+
+    .cont1,
+    .cont3,
+    .cont4 {
+        margin-top: 50px;
+    }
+
+    .bannerbotimg {
+        height: 120px;
+        width: 280px;
+        margin-left: 55%;
+        margin-top: -60px;
+
+    }
+
+    .banslidimg {
+        margin-top: 90px
+    }
+
+
+    .cont1head {
+        font-size: 35px;
+    }
+
+    .cont1subhead {
+        font-size: 20px;
+    }
+
+    .cont1text1,
+    .cont1text2 {
+        width: 90%;
+
+    }
+
+    .cont1text2 {
+        margin-left: -10px;
+    }
+
+    .banner_next_section_text_bg {
+        width: 100px;
+        height: 115px;
+        top: 15%;
+        margin-left: -50px;
+    }
+
+
+
+    .cont1rightimg {
+        width: 296px;
+        height: 326.784px;
+        margin-top: 20%;
+    }
+
+
+    .banner_next_section_text_bg {
+        margin-top: 50%;
+    }
+
+    .rightimgtext {
+        margin-left: auto;
+        margin-right: auto;
+        font-size: 19px;
+        margin-top: 70%;
+        width: 70%;
+    }
+
+    .cont2 {
+        margin-top: 150px;
+    }
+
+    .cont2part1 {
+        width: 100%;
+        height: 180px;
+        margin-top: 150px;
+    }
+
+    .cont2part1img {
+        width: 60%;
+        margin-top: -250px;
+        right: 0;
+    }
+
+    .cont2part2bg {
+        margin-top: -5px;
+        width: 100%;
+    }
+
+    .cont2part2text {
+        margin-bottom: 50px;
+    }
+
+    .cont2partbottmimg {
+        width: 100%;
+    }
+
+    .cont2partimg {
+        margin-top: 40px;
+        height: 40px;
+        width: 60px;
+        margin-bottom: 40px;
+    }
+
+    .cont3part3img {
+        margin-top: 40px;
+        height: 60px;
+        width: 60px;
+        margin-bottom: 30px;
+
+    }
+
+    .cont2part3text {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    .cont2part3 {
+        margin-top: 38px;
+        width: 60%;
+        height: 100%;
+    }
+
+    .imgsec1 {
+        max-width: 350px;
+    }
+
+    .valuehead {
+        font-size: 35px;
+    }
+
+    .footlocimg {
+        width: 14px;
+        height: 20px;
+    }
+
+    .busiimg {
+        width: 14px;
+        height: 17px;
+    }
+
+    .callimg {
+        width: 15px;
+        height: 16px;
+        padding-top: 5px;
+    }
+
+
+    .footmailimg {
+        width: 20px;
+        height: 14px;
+        margin-top: 5px;
+    }
+
+    .footlogo {
+        margin-bottom: 10px;
+    }
+
+    .footabout,
+    .event,
+    .socialmediasec {
+        margin-top: 30px;
+    }
+
+    .footabout dl dt,
+    .event dl dt,
+    .socialmediasec dt {
+        font-size: 15px;
+    }
+
+    .socialmediasec dt {
+        margin-bottom: 10px;
+    }
+
+    .footfbimg {
+        width: 11px;
+        height: 21px;
+        margin-left: 10px;
+    }
+
+    .foottwtimg,
+    .footinstaimg {
+        width: 21px;
+        height: 21px;
+    }
+
+
+
+
+    .container1 .card .content p {
+        font-size: 15px !important;
+        margin-top: 15px;
+    }
+
+    .container1 .card .content {
+
+        padding: 5px 10px !important;
+    }
+
+    .container1 .card:hover {
+        height: 230px;
+        margin-top: -25px
+    }
+
+    .container1 .card {
+
+        height: 110px;
+    }
+
+    .container1 {
+        margin-top: 18%;
+    }
+
+
+
+}
+
+@media only screen and (max-width: 991.9px) and (min-width: 768px) {
+
+    .quicktelhead,
+    .quickemailhead,
+    .locpohead,
+    .loccodehead,
+    .quickteltext,
+    .quickemailtext,
+    .locpotext,
+    .loccodetext,
+    .cont1text1,
+    .cont1text2,
+    .cont2part2text,
+    .cont2part3text,
+    .valuetext1,
+    .valuetext2,
+    .cont4text,
+    .calltext,
+    .busitext,
+    .fottmailtext,
+    .footloctext,
+    .companydec,
+    .footabout dl dd,
+    .event dl dd,
+    .copyrighttext {
+        font-size: 15px;
+
+    }
+
+    #navitem1,
+    #navitem2,
+    #navitem3,
+    #navitem4,
+    #navitem5,
+    #navitem6,
+    #navitem7 {
+        font-size: 15px;
+
+    }
+
+    .cont1,
+    .cont3,
+    .cont4 {
+        margin-top: 50px;
+    }
+
+    .banslidimg {
+        margin-top: 90px;
+    }
+
+    .carousel-control-next-icon,
+    .carousel-control-prev-icon {
+        margin-top: 80px;
+    }
+
+    .bannerbotimg {
+        height: 120px;
+        width: 280px;
+        margin-left: 55%;
+        margin-top: -60px;
+    }
+
+    .bannerslidimg {
+        height: 100px !important;
+        width: 230.5px !important;
+    }
+
+    .cont1head {
+        font-size: 30px;
+    }
+
+    .cont1subhead {
+        font-size: 20px;
+    }
+
+    /* #more,#more1 {
+        display: none;
+    } */
+
+    .cont1text1,
+    .cont1text2 {
+        width: 95%;
+
+    }
+
+    .cont1text2 {
+        margin-left: 0px;
+    }
+
+    .rightimgtext {
+        font-size: 20px;
+        margin-top: 70%;
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .banner_next_section_text_bg {
+        width: 140px;
+        height: 150px;
+        top: 60%;
+        margin-left: -80px;
+    }
+
+    .banner_next_section {
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .cont1rightimg {
+        height: 496.8px;
+        width: 450px;
+        background-size: contain;
+        margin-left: 130px;
+        margin-top: 50px;
+
+    }
+
+    .cont2 {
+        margin-top: 50px;
+    }
+
+    .cont2part1 {
+        width: 100%;
+        height: 100px;
+        margin-top: 300px;
+    }
+
+    .cont2part1img {
+        right: 0;
+        width: 200px;
+        margin-top: -250px;
+    }
+
+    .cont2part2bg {
+        margin-top: 90px;
+        width: 100%;
+    }
+
+    .cont2part2text {
+        margin-bottom: 50px;
+    }
+
+    .cont2partbottmimg {
+        width: 100%;
+    }
+
+    .cont2partimg {
+        margin-top: 30px;
+        height: 30px;
+        width: 60px;
+        margin-bottom: 30px;
+    }
+
+    .cont3part3img {
+        margin-top: 30px;
+        height: 60px;
+        width: 60px;
+        margin-bottom: 20px;
+    }
+
+    .cont2part3 {
+        margin-top: 147px;
+        width: 80%;
+        height: 255px;
+    }
+
+    .valuehead {
+        font-size: 30px;
+    }
+
+    .imgsec1 {
+        max-width: 350px !important;
+    }
+
+    .imgsec {
+        max-width: 300px !important;
+
+    }
+
+    .calltext,
+    .busitext,
+    .fottmailtext,
+    .footloctext {
+        font-size: 14px;
+        margin-top: 3px;
+    }
+
+    .cont4part1img {
+        height: 95%;
+        background-size: contain;
+    }
+
+    .cont4part2img1,
+    .cont4part2img2,
+    .cont4part2img3 {
+        width: 180px;
+        height: 100px;
+    }
+
+    .footlocimg {
+        width: 14px;
+        height: 20px;
+    }
+
+    .busiimg {
+        width: 14px;
+        height: 17px;
+    }
+
+    .callimg {
+        width: 15px;
+        height: 16px;
+        padding-top: 5px;
+    }
+
+
+    .footmailimg {
+        width: 20px;
+        height: 14px;
+        margin-top: 5px;
+    }
+
+    .footlogo {
+        margin-bottom: 10px;
+    }
+
+    .footabout,
+    .event,
+    .socialmediasec {
+        margin-top: 30px;
+    }
+
+    .footabout dl dt,
+    .event dl dt,
+    .socialmediasec dt {
+        font-size: 15px;
+    }
+
+    .socialmediasec dt {
+        margin-bottom: 10px;
+    }
+
+    .footfbimg {
+        width: 11px;
+        height: 21px;
+        margin-left: 10px;
+    }
+
+    .foottwtimg,
+    .footinstaimg {
+        width: 21px;
+        height: 21px;
+    }
+
+
+
+    .container1 {
+        margin-top: 20%;
+    }
+
+    .container1 .card {
+        height: 140px;
+    }
+
+    .container1 .card:hover {
+        height: 220px;
+
+
+    }
+
+    .container1 .card .content p {
+        font-size: 15px !important;
+        margin-top: 10px;
+
+    }
+
+}
+
+@media only screen and (max-width:767.9px) and (min-width: 427px) {
+
+    .quicktelhead,
+    .quickemailhead,
+    .locpohead,
+    .loccodehead,
+    .quickteltext,
+    .quickemailtext,
+    .locpotext,
+    .loccodetext,
+    .cont1text1,
+    .cont1text2,
+    .cont2part2text,
+    .cont2part3text,
+    .valuetext1,
+    .valuetext2,
+    .cont4text,
+    .calltext,
+    .busitext,
+    .fottmailtext,
+    .footloctext,
+    .companydec,
+    .footabout dl dd,
+    .event dl dd,
+    .copyrighttext {
+        font-size: 14px;
+
+    }
+
+
+    .slides {
+        max-width: 70% !important;
+        margin: auto;
+    }
+
+    #navitem1,
+    #navitem2,
+    #navitem3,
+    #navitem4,
+    #navitem5,
+    #navitem6,
+    #navitem7 {
+        font-size: 14px;
+
+    }
+
+    .cont1,
+    .cont3,
+    .cont4 {
+        margin-top: 50px;
+    }
+
+    .bannerbotimg {
+        height: 90px;
+        width: 180px;
+        margin-top: -50px;
+        margin-left: 50%;
+    }
+
+    .banslidimg {
+        margin-top: 90px;
+    }
+
+    .carousel-control-next-icon,
+    .carousel-control-prev-icon {
+        margin-top: 80px;
+    }
+
+
+    .cont1head {
+
+        font-size: 30px;
+    }
+
+    .cont1subhead {
+        font-size: 20px;
+    }
+
+
+    .cont1text1,
+    .cont1text2 {
+        width: 99%;
+
+    }
+
+    .cont1text2 {
+        margin-left: 0px;
+    }
+
+    .rightimgtext {
+        font-size: 18px;
+        margin-top: 50%;
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .banner_next_section_text_bg {
+        width: 100px;
+        height: 110px;
+        top: 50%;
+        margin-left: -50px;
+        padding: 20px;
+    }
+
+    .banner_next_section {
+        width: 75%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+
+    .cont1rightimg {
+        height: 353.28px;
+        width: 320px !important;
+        background-size: contain;
+        margin-left: 15%;
+        margin-top: 50px;
+
+    }
+
+    .cont2 {
+        margin-top: 200px;
+    }
+
+    .cont2part1 {
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .cont2part1img {
+        width: 250px;
+        height: 400px;
+        margin-top: -200px;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        margin-left: auto;
+        margin-right: auto;
+        left: 0;
+        right: 0;
+    }
+
+    .cont2part2bg {
+        margin-top: 50px;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .cont2part2text {
+        margin-bottom: 50px;
+    }
+
+    .cont2partbottmimg {
+        width: 100%;
+    }
+
+    .cont4text {
+        width: 100%;
+    }
+
+    .cont2partimg {
+        margin-top: 30px;
+        height: 50px;
+        width: 80px;
+        margin-bottom: 30px;
+    }
+
+    .cont3part3img {
+        margin-top: 30px;
+        height: 70px;
+        width: 80px;
+        margin-bottom: 30px;
+    }
+
+    .cont2part3 {
+        margin-top: 50px;
+        width: 100%;
+        height: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .valuehead {
+        font-size: 30px;
+    }
+
+    .valuetext,
+    .cont4,
+    .cont4part2sec1,
+    .cont2cont {
+        flex-direction: column;
+    }
+
+    .cont2cont {
+        align-items: center;
+        justify-content: center;
+        display: flex;
+    }
+
+    .cont4part1img {
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .cont4part2img1,
+    .cont4part2img2,
+    .cont4part2img3 {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        width: 100% !important;
+        /* height: 40% !important; */
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+
+    .cont4part2img1,
+    .cont4part2img2,
+    .cont4part2img3 {
+        width: 180px;
+    }
+
+    .cont4text {
+        margin-left: 0;
+    }
+
+    .footlocimg {
+        width: 14px;
+        height: 20px;
+    }
+
+    .busiimg {
+        width: 14px;
+        height: 17px;
+    }
+
+    .callimg {
+        width: 15px;
+        height: 16px;
+        margin-top: 5px;
+    }
+
+    .footmailimg {
+        width: 20px;
+        height: 14px;
+        margin-top: 5px;
+    }
+
+    .footlogo {
+        margin-bottom: 10px;
+    }
+
+    .copyrighttext {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .footabout,
+    .event,
+    .socialmediasec {
+        margin-top: 5px;
+        margin-bottom: 20px;
+    }
+
+    .footabout dl dt,
+    .event dl dt,
+    .socialmediasec dt {
+        font-size: 15px;
+    }
+
+    .socialmediasec dt {
+        margin-bottom: 10px;
+    }
+
+    .footfbimg {
+        width: 11px;
+        height: 21px;
+        margin-left: 10px;
+    }
+
+    .foottwtimg,
+    .footinstaimg {
+        width: 21px;
+        height: 21px;
+    }
+
+
+
+    .container1 {
+        margin-top: 20%;
+    }
+
+    .container1 .card {
+        height: 160px;
+    }
+
+    .container1 .card:hover {
+        height: 230px;
+
+    }
+
+    .container1 .card .content p {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+
+
+}
+
+@media only screen and (max-width:426.99px) and (min-width: 377px) {
+
+    .quicktelhead,
+    .quickemailhead,
+    .locpohead,
+    .loccodehead,
+    .quickteltext,
+    .quickemailtext,
+    .locpotext,
+    .loccodetext,
+    .cont1text1,
+    .cont1text2,
+    .cont2part2text,
+    .cont2part3text,
+    .valuetext1,
+    .valuetext2,
+    .cont4text,
+    .calltext,
+    .busitext,
+    .fottmailtext,
+    .footloctext,
+    .companydec,
+    .footabout dl dd,
+    .event dl dd,
+    .copyrighttext {
+        font-size: 14px;
+
+    }
+
+    .slides {
+        max-width: 70% !important;
+        margin: auto;
+    }
+
+    #navitem1,
+    #navitem2,
+    #navitem3,
+    #navitem4,
+    #navitem5,
+    #navitem6,
+    #navitem7 {
+        font-size: 14px;
+
+    }
+
+
+    .bannerbotimg {
+        height: 90px;
+        width: 180px;
+        margin-top: -50px;
+        margin-left: 50%;
+    }
+
+    .banslidimg {
+        margin-top: 90px;
+    }
+
+    .carousel-control-next-icon,
+    .carousel-control-prev-icon {
+        margin-top: 80px;
+    }
+
+    .cont1,
+    .cont3,
+    .cont4 {
+        margin-top: 50px;
+    }
+
+
+    .cont1head {
+        font-size: 30px;
+    }
+
+    .cont1subhead {
+        font-size: 20px;
+    }
+
+    /* #more,#more1 {
+        display: none;
+    } */
+
+    .cont1text1,
+    .cont1text2 {
+        width: 100%;
+
+    }
+
+    .cont1text2 {
+        margin-left: 0px;
+    }
+
+    .rightimgtext {
+        font-size: 20px;
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .banner_next_section_text_bg {
+        width: 110px;
+        height: 120px;
+        top: 50%;
+        margin-left: -50px;
+    }
+
+    .banner_next_section {
+        width: 75%;
+        margin-top: 30px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+
+    .cont1rightimg {
+        height: 400px;
+        width: 70%;
+        background-size: contain;
+        margin-left: 80px;
+        margin-top: 50px;
+
+    }
+
+    .cont2 {
+        margin-top: 150px;
+    }
+
+    .cont2part1 {
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        width: 100%;
+        margin-top: 50px;
+    }
+
+    .cont2part1img {
+        width: 250px;
+        height: 400px;
+        margin-top: -180px;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        margin-left: auto;
+        margin-right: auto;
+        left: 0;
+        right: 0;
+
+    }
+
+    .cont2part2bg {
+        margin-top: 50px;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .cont2part2text {
+        margin-bottom: 50px;
+    }
+
+    .cont2partbottmimg {
+        width: 100%;
+    }
+
+    .cont4text {
+        width: 100%;
+    }
+
+    .cont2partimg {
+        margin-top: 30px;
+        height: 60px;
+        width: 80px;
+        margin-bottom: 30px;
+    }
+
+    .cont3part3img {
+        margin-top: 30px;
+        height: 70px;
+        width: 80px;
+        margin-bottom: 30px;
+    }
+
+    .cont2part3 {
+        width: 100%;
+        height: 100%;
+        margin-top: 50px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .cont3,
+    .cont4 {
+        margin-top: 50px;
+    }
+
+    .valuehead {
+        font-size: 30px;
+    }
+
+    .valuetext1,
+    .valuetext2 {
+        width: 100%;
+    }
+
+    .valuetext,
+    .cont4,
+    .cont4part2sec1,
+    .cont2cont,
+    .contdet {
+        flex-direction: column;
+    }
+
+
+    .cont2cont {
+        align-items: center;
+        justify-content: center;
+        display: flex;
+    }
+
+    .cont4part1img {
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .cont4part2img1,
+    .cont4part2img2,
+    .cont4part2img3 {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        width: 100% !important;
+        /* height: 40% !important; */
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+
+
+
+    .footmail {
+        margin-right: 50px;
+    }
+
+
+    .cont4part2img1,
+    .cont4part2img2,
+    .cont4part2img3 {
+        width: 180px;
+    }
+
+    .cont4text {
+        font-size: 14px;
+        margin-left: 0px;
+    }
+
+
+    .footlocimg {
+        width: 14px;
+        height: 20px;
+    }
+
+    .busiimg {
+        width: 14px;
+        height: 17px;
+    }
+
+    .callimg {
+        width: 15px;
+        height: 16px;
+        margin-top: 1px;
+    }
+
+    .footmailimg {
+        width: 20px;
+        height: 14px;
+        margin-top: 1px;
+    }
+
+    .footlogo {
+        margin-bottom: 10px;
+    }
+
+    .copyrighttext {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .footabout,
+    .event,
+    .socialmediasec {
+        margin-top: 5px;
+        margin-bottom: 20px;
+    }
+
+    .footabout dl dt,
+    .event dl dt,
+    .socialmediasec dt {
+        font-size: 15px;
+    }
+
+    .socialmediasec dt {
+        margin-bottom: 10px;
+    }
+
+    .footfbimg {
+        width: 11px;
+        height: 21px;
+        margin-left: 10px;
+    }
+
+    .foottwtimg,
+    .footinstaimg {
+        width: 21px;
+        height: 21px;
+    }
+
+    .container1 {
+        margin-top: 20%;
+    }
+
+    .container1 .card {
+        height: 160px;
+    }
+
+    .container1 .card:hover {
+        height: 230px;
+
+    }
+
+    .container1 .card .content p {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+
+
+}
+
+@media only screen and (max-width:376px) and (min-width: 321px) {
+
+    .quicktelhead,
+    .quickemailhead,
+    .locpohead,
+    .loccodehead,
+    .quickteltext,
+    .quickemailtext,
+    .locpotext,
+    .loccodetext,
+    .cont1text1,
+    .cont1text2,
+    .cont2part2text,
+    .cont2part3text,
+    .valuetext1,
+    .valuetext2,
+    .cont4text,
+    .calltext,
+    .busitext,
+    .fottmailtext,
+    .footloctext,
+    .companydec,
+    .footabout dl dd,
+    .event dl dd,
+    .copyrighttext {
+        font-size: 14px;
+
+    }
+
+
+    #navitem1,
+    #navitem2,
+    #navitem3,
+    #navitem4,
+    #navitem5,
+    #navitem6,
+    #navitem7 {
+        font-size: 14px;
+
+
+    }
+
+    .slides {
+        max-width: 70% !important;
+        margin: auto;
+    }
+
+    .bannerbotimg {
+        height: 60px;
+        width: 140px;
+        margin-top: -40px;
+        margin-left: 50%;
+    }
+
+    .banslidimg {
+        margin-top: 90px;
+    }
+
+    .carousel-control-next-icon,
+    .carousel-control-prev-icon {
+        margin-top: 80px;
+    }
+
+    .cont1,
+    .cont3,
+    .cont4 {
+        margin-top: 50px;
+    }
+
+
+    .cont1head {
+        font-size: 30px;
+    }
+
+    .cont1subhead {
+        font-size: 20px;
+    }
+
+    /* #more,#more1 {
+        display: none;
+    } */
+
+    .cont1text1,
+    .cont1text2 {
+        width: 100%;
+
+    }
+
+    .cont1text2 {
+        margin-left: 0px;
+    }
+
+    .rightimgtext {
+        font-size: 18px;
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .banner_next_section_text_bg {
+        width: 100px;
+        height: 110px;
+        top: 40%;
+        margin-left: -40px;
+    }
+
+    .banner_next_section {
+        width: 80%;
+        margin-top: 30px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+
+
+
+    .cont2 {
+        margin-top: 100px;
+    }
+
+    .cont2part1 {
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .cont2part1img {
+        width: 250px;
+        height: 400px;
+        margin-top: -200px;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        margin-left: auto;
+        margin-right: auto;
+        left: 0;
+        right: 0;
+    }
+
+    .cont2part2bg {
+        margin-top: 50px;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .cont2part2text {
+        margin-bottom: 50px;
+    }
+
+    .cont2partbottmimg {
+        width: 100%;
+    }
+
+    .cont4text {
+        width: 100%;
+    }
+
+    .cont2partimg {
+        margin-top: 30px;
+        height: 55px;
+        width: 80px;
+        margin-bottom: 30px;
+    }
+
+    .cont3part3img {
+        margin-top: 30px;
+        height: 70px;
+        width: 80px;
+        margin-bottom: 30px;
+    }
+
+    .cont2part3 {
+        margin-top: 50px;
+        width: 100%;
+        height: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .valuehead {
+        font-size: 30px;
+    }
+
+    .valuetext,
+    .cont4,
+    .cont4part2sec1,
+    .cont2cont,
+    .contdet {
+        flex-direction: column;
+    }
+
+
+
+    .cont2cont {
+        align-items: center;
+        justify-content: center;
+        display: flex;
+    }
+
+    .cont4part1img {
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .cont3,
+    .cont4 {
+        margin-top: 50px;
+    }
+
+    .cont4part2img1,
+    .cont4part2img2,
+    .cont4part2img3 {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        width: 100% !important;
+        /* height: 40% !important; */
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+
+    .cont4part2img1,
+    .cont4part2img2,
+    .cont4part2img3 {
+        width: 180px;
+    }
+
+    .footlocimg {
+        width: 14px;
+        height: 20px;
+    }
+
+    .busiimg {
+        width: 14px;
+        height: 17px;
+    }
+
+    .callimg {
+        width: 15px;
+        height: 16px;
+        margin-top: 5px;
+    }
+
+    .footmailimg {
+        width: 20px;
+        height: 14px;
+        margin-top: 5px;
+    }
+
+    .footlogo {
+        margin-bottom: 10px;
+    }
+
+    .copyrighttext {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .footabout,
+    .event,
+    .socialmediasec {
+        margin-top: 5px;
+        margin-bottom: 20px;
+    }
+
+    .footabout dl dt,
+    .event dl dt,
+    .socialmediasec dt {
+        font-size: 15px;
+    }
+
+    .socialmediasec dt {
+        margin-bottom: 10px;
+    }
+
+    .footfbimg {
+        width: 11px;
+        height: 21px;
+        margin-left: 10px;
+    }
+
+    .foottwtimg,
+    .footinstaimg {
+        width: 21px;
+        height: 21px;
+    }
+
+
+
+
+    .container1 {
+        margin-top: 20%;
+    }
+
+    .container1 .card {
+        height: 145px;
+    }
+
+    .container1 .card:hover {
+        height: 230px;
+
+    }
+
+    .container1 .card .content p {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+
+
+
+}
+
+@media only screen and (max-width:320px) and (min-width: 300px) {
+
+    .quicktelhead,
+    .quickemailhead,
+    .locpohead,
+    .loccodehead,
+    .quickteltext,
+    .quickemailtext,
+    .locpotext,
+    .loccodetext,
+    .cont1text1,
+    .cont1text2,
+    .cont2part2text,
+    .cont2part3text,
+    .valuetext1,
+    .valuetext2,
+    .cont4text,
+    .calltext,
+    .busitext,
+    .fottmailtext,
+    .footloctext,
+    .companydec,
+    .footabout dl dd,
+    .event dl dd,
+    .copyrighttext {
+        font-size: 13px;
+
+    }
+
+    .slides {
+        max-width: 70% !important;
+        margin: auto;
+    }
+
+    .logoimg {
+        width: 100%;
+        height: 50px;
+    }
+
+    #navitem1,
+    #navitem2,
+    #navitem3,
+    #navitem4,
+    #navitem5,
+    #navitem6,
+    #navitem7 {
+        font-size: 13px;
+        margin-right: 10px;
+    }
+
+    .banslidimg {
+        margin-top: 75px;
+    }
+
+    .carousel-control-next-icon,
+    .carousel-control-prev-icon {
+        margin-top: 60px;
+    }
+
+    .bannerbotimg {
+        height: 60px;
+        width: 130px;
+        margin-top: -35px;
+        margin-left: 50%;
+    }
+
+    .cont1,
+    .cont3,
+    .cont4 {
+        margin-top: 50px;
+    }
+
+    .cont1head {
+
+        font-size: 30px;
+    }
+
+    .cont1subhead {
+        font-size: 20px;
+    }
+
+    /* #more,#more1 {
+        display: none;
+    } */
+
+    .cont1text1,
+    .cont1text2 {
+        width: 100%;
+
+    }
+
+    .cont1text2 {
+        margin-left: 0px;
+    }
+
+    .rightimgtext {
+        font-size: 18px;
+        width: 70%;
+        margin-top: -10px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .banner_next_section_text_bg {
+        width: 90px;
+        height: 100px;
+        top: 45%;
+        margin-left: -40px;
+        ;
+    }
+
+    .banner_next_section {
+        width: 80%;
+        margin-top: 30px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .cont1rightimg {
+        height: 400px;
+        width: 70%;
+        background-size: contain;
+        margin-left: 60px;
+        margin-top: 50px;
+
+    }
+
+    .cont2 {
+        margin-top: 100px;
+    }
+
+    .cont2part1 {
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .cont2part1img {
+        width: 250px;
+        height: 400px;
+        margin-top: -200px;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        margin-left: auto;
+        margin-right: auto;
+        left: 0;
+        right: 0;
+
+    }
+
+    .cont2part2bg {
+        margin-top: 50px;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .cont2part2text {
+        margin-bottom: 50px;
+    }
+
+    .cont2partbottmimg {
+        width: 100%;
+    }
+
+    .cont4text {
+        width: 100%;
+    }
+
+    .cont2partimg {
+        margin-top: 30px;
+        height: 55px;
+        width: 80px;
+        margin-bottom: 30px;
+    }
+
+    .cont3part3img {
+        margin-top: 30px;
+        height: 70px;
+        width: 80px;
+        margin-bottom: 30px;
+    }
+
+    .cont2part3 {
+        margin-top: 50px;
+        width: 100%;
+        height: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .cont3,
+    .cont4 {
+        margin-top: 50px;
+    }
+
+    .valuehead {
+        font-size: 30px;
+    }
+
+    .valuetext1,
+    .valuetext2 {
+        width: 100%;
+    }
+
+    .valuetext,
+    .cont4,
+    .cont4part2sec1,
+    .cont2cont,
+    .contdet {
+        flex-direction: column;
+    }
+
+
+
+    .cont2cont {
+        align-items: center;
+        justify-content: center;
+        display: flex;
+    }
+
+    .cont4part1img {
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .cont4part2img1,
+    .cont4part2img2,
+    .cont4part2img3 {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        width: 100% !important;
+        /* height: 40% !important; */
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .cont4part2img1,
+    .cont4part2img2,
+    .cont4part2img3 {
+        width: 180px;
+    }
+
+    .cont4text {
+        margin-left: 0;
+    }
+
+    .footlocimg {
+        width: 11px;
+        height: 16px;
+    }
+
+    .busiimg {
+        width: 14px;
+        height: 17px;
+    }
+
+    .callimg {
+        width: 13px;
+        height: 14px;
+        margin-top: 1px;
+    }
+
+    .footmailimg {
+        width: 17px;
+        height: 11px;
+        margin-top: 1px;
+    }
+
+    .footlogo {
+        margin-bottom: 10px;
+    }
+
+    .copyrighttext {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .footabout,
+    .event,
+    .socialmediasec {
+        margin-top: 5px;
+        margin-bottom: 20px;
+    }
+
+    .footabout dl dt,
+    .event dl dt,
+    .socialmediasec dt {
+        font-size: 12px;
+    }
+
+    .socialmediasec dt {
+        margin-bottom: 10px;
+    }
+
+    .footfbimg {
+        width: 8px;
+        height: 19px;
+        margin-left: 10px;
+    }
+
+    .foottwtimg,
+    .footinstaimg {
+        width: 19px;
+        height: 19px;
+    }
+
+
+
+    .container1 {
+        margin-top: 20%;
+    }
+
+    .container1 .card {
+        height: 125px;
+    }
+
+    .container1 .card:hover {
+        height: 180px;
+
+    }
+
+    .container1 .card .content p {
+        font-size: 11px;
+        margin-top: 15px;
+    }
+
+
+
+
+}
+
+@media only screen and (min-width:991px) {
+    .dashboardcont2 {
+        display: flex
+    }
+}
+
+@media only screen and (min-width:992px) {
+    .mbl {
+        display: none
+    }
+}
+
+@media only screen and (max-width:992px) {
+    .mbl {
+        display: block !important;
+    }
+
+    .desk {
+        display: none;
+    }
+}
