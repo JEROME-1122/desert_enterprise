@@ -1,0 +1,895 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.home {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.cont1,
+.footer {
+    overflow-x: hidden;
+}
+
+.dashboard,
+.footer {
+    background-color: #292A61;
+}
+
+.aboutcont,
+.milestonesec,
+.milestonesec1 {
+    display: flex;
+}
+
+
+.aboutcont1 {
+    height: 100%;
+}
+
+.milestonesecpart1,
+.milestonesecpart3,
+.milestonesec1part2 {
+    background-color: #A4DAFF;
+    width: 100%;
+    height: 350px;
+
+}
+
+.milestonesecpart2,
+.milestonesec1part1,
+.milestonesec1part3 {
+    width: 100%;
+    height: 350px;
+    background-color: #1B7DC1;
+
+}
+
+.year1 {
+    font-size: 50px;
+    font-weight: bold;
+    color: #292A61;
+    margin: 35px;
+}
+
+.dec1 {
+    color: #292A61;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 15%;
+}
+
+.dec2 {
+    color: #fff;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 15%;
+}
+
+.milestonehead {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.year2 {
+    font-size: 50px;
+    font-weight: bold;
+    color: #fff;
+    margin: 35px;
+
+}
+
+.dashboard {
+    height: 60px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+
+.emailsec,
+.po,
+.code,
+.tele {
+    margin-right: 10px;
+}
+
+
+.cont4 {
+    overflow-x: hidden;
+}
+
+.banslidimg {
+    position: relative;
+}
+
+.bannerbotimg {
+    position: absolute;
+    margin-top: -100px;
+    height: 200px;
+    width: 400px;
+    float: right;
+    margin-left: 60%;
+    clear: both;
+}
+
+
+.contdet {
+    margin-top: 56px;
+}
+
+.cont1head,
+.managementhead {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+
+.position {
+    font-size: 20px;
+}
+
+.barsec {
+    width: 120%;
+    height: 100px;
+    margin-top: 120px;
+    background-color: #A4DAFF;
+}
+
+
+.chairmanimg,
+.ceoimg,
+.cfoimg {
+    width: 100%;
+}
+
+.cont4 {
+    background-color: #1B7DC1;
+}
+
+.ethistext {
+    width: 65%;
+}
+
+.ethicsimg {
+    width: 400px;
+    height: 616.8px;
+    overflow: hidden;
+    margin-top: 50px;
+    position: absolute;
+}
+
+.ethicshoverimg,
+.ethicshoverimg {
+    width: 96%;
+}
+
+.ethicsimg1 {
+    position: absolute;
+    right: 0;
+    width: 450px;
+    height: 547.2px;
+    margin-top: -600px;
+}
+
+.corporate,
+.corporatetext,
+.leanbtn1 {
+    margin-left: 50px;
+}
+
+.ethishead {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.leanbtn {
+    margin-top: 250px;
+
+}
+
+.leanbtn,
+.leanbtn1 {
+    border-radius: 0px;
+    border: none;
+    color: #1B7DC1;
+    padding: 10px 20px;
+    margin-bottom: 50px;
+}
+
+.corporate {
+    margin-top: 130px;
+    margin-bottom: 50px;
+}
+
+
+.finaltext {
+    margin-top: 50px;
+}
+
+.mbl,
+.tab {
+    display: none;
+}
+
+@media only screen and (max-width: 2600px) and (min-width: 1999px) {
+
+    .ethistext .corporatetext,
+    .finaltext,
+    .fottmailtext,
+    .footloctext,
+    .companydec,
+    .footabout dl dd,
+    .event dl dd,
+    .copyrighttext {
+        font-size: 16px;
+    }
+
+    .barsec {
+        margin-top: 70px;
+    }
+
+    .ethicsimg {
+        margin-left: 200px;
+        width: 500px;
+        height: 771px;
+    }
+
+    .ethicsimg1 {
+        margin-right: 200px !important;
+        margin-top: -650px !important;
+        width: 500px;
+        height: 606.3px;
+    }
+
+    .corporate {
+        margin-top: 200px;
+    }
+
+
+
+
+    .banslidimg {
+        width: 100%;
+        height: 100%;
+        margin-top: 90px;
+    }
+
+    .bannerbotimg {
+        height: 200px;
+        width: 400px;
+        margin-top: -130px;
+    }
+
+
+
+
+}
+
+
+
+
+@media only screen and (max-width: 1999px) and (min-width: 1699px) {
+
+
+    .calltext,
+    .busitext,
+    .fottmailtext,
+    .footloctext,
+    .companydec,
+    .footabout dl dd,
+    .event dl dd,
+    .copyrighttext {
+        font-size: 14px;
+    }
+
+
+    .banslidimg {
+        margin-top: 90px
+    }
+
+    .bannerbotimg {
+        height: 180px;
+        width: 380px;
+    }
+
+    .cont1 {
+        margin-top: 50px;
+    }
+
+    .cont1head,
+    .milestonehead,
+    .managementhead {
+        font-size: 50px;
+    }
+
+    .cont1subhead {
+        font-size: 29px;
+    }
+
+    .cont1text1 {
+        width: 80%;
+    }
+
+
+}
+
+@media only screen and (max-width: 1699px) and (min-width: 1441px) {
+
+
+    .calltext,
+    .busitext,
+    .fottmailtext,
+    .footloctext,
+    .companydec,
+    .footabout dl dd,
+    .event dl dd,
+    .copyrighttext {
+        font-size: 14px;
+    }
+
+
+
+    /* .logoimg {} */
+
+
+    .banslidimg {
+        margin-top: 90px;
+    }
+
+    .bannerbotimg {
+        height: 180px;
+        width: 380px;
+    }
+
+    .cont1 {
+        margin-top: 50px;
+    }
+
+    .cont1head,
+    .milestonehead,
+    .managementhead {
+        font-size: 50px;
+    }
+
+
+    .cont1text1 {
+        width: 80%;
+    }
+
+    .cont1,
+    .cont3,
+    .cont4 {
+        margin-top: 50px;
+    }
+
+}
+
+@media only screen and (max-width: 1440px) and (min-width: 1300px) {
+    .barsec {
+        margin-top: 190px;
+    }
+}
+
+@media only screen and (max-width: 1440px) and (min-width: 1201px) {
+
+
+    .busitext,
+    .fottmailtext,
+    .footloctext,
+    .companydec,
+    .footabout dl dd,
+    .event dl dd,
+    .copyrighttext {
+        font-size: 12px;
+    }
+
+
+    .bannerbotimg {
+        height: 160px;
+        width: 360px;
+    }
+
+
+    .banslidimg {
+        margin-top: 90px
+    }
+
+
+    .cont1head,
+    .milestonehead,
+    .managementhead {
+        font-size: 40px;
+    }
+
+    .barsec {
+        margin-top: 150px;
+    }
+
+
+}
+
+@media only screen and (max-width: 1200px) and (min-width: 1025px) {
+
+
+    .companydec,
+    .footabout dl dd,
+    .event dl dd,
+    .copyrighttext {
+        font-size: 12px;
+    }
+
+
+    .bannerbotimg {
+        height: 130px;
+        width: 330px;
+        margin-left: 55%;
+        margin-top: -70px;
+    }
+
+    .banslidimg {
+        margin-top: 90px
+    }
+
+
+    .cont1head,
+    .milestonehead,
+    .managementhead {
+        font-size: 35px;
+    }
+
+}
+
+@media only screen and (max-width: 1024px) and (min-width: 992px) {
+
+
+    .calltext,
+    .busitext,
+    .fottmailtext,
+    .footloctext,
+    .companydec,
+    .footabout dl dd,
+    .event dl dd,
+    .copyrighttext {
+        font-size: 14px;
+    }
+
+
+    .cont1,
+    .cont3,
+    .cont4 {
+        margin-top: 50px;
+    }
+
+    .bannerbotimg {
+        height: 120px;
+        width: 280px;
+        margin-left: 55%;
+        margin-top: -60px;
+
+    }
+
+    .banslidimg {
+        margin-top: 90px
+    }
+
+    .cont1head,
+    .milestonehead,
+    .managementhead {
+        font-size: 30px;
+    }
+
+
+
+}
+
+@media only screen and (max-width: 992px) and (min-width: 768px) {
+
+
+    .valuetext2,
+    .cont4text,
+    .calltext,
+    .busitext,
+    .fottmailtext,
+    .footloctext,
+    .companydec,
+    .footabout dl dd,
+    .event dl dd,
+    .copyrighttext {
+        font-size: 14px;
+
+    }
+
+
+
+    .cont1,
+    .cont3,
+    .cont4 {
+        margin-top: 50px;
+    }
+
+    .banslidimg {
+        margin-top: 90px;
+    }
+
+    .bannerbotimg {
+        height: 120px;
+        width: 280px;
+        margin-left: 55%;
+        margin-top: -60px;
+    }
+
+    .cont1head {
+        font-size: 30px;
+    }
+
+}
+
+@media only screen and (max-width:767px) and (min-width: 427px) {
+
+    .calltext,
+    .busitext,
+    .fottmailtext,
+    .footloctext,
+    .companydec,
+    .footabout dl dd,
+    .event dl dd,
+    .copyrighttext {
+        font-size: 14px;
+
+    }
+
+
+
+    .cont1,
+    .cont3,
+    .cont4 {
+        margin-top: 50px;
+    }
+
+    .bannerbotimg {
+        height: 90px;
+        width: 180px;
+        margin-top: -50px;
+        margin-left: 50%;
+    }
+
+    .banslidimg {
+        margin-top: 90px;
+    }
+
+    .cont1head,
+    .milestonehead,
+    .managementhead {
+        font-size: 30px;
+    }
+
+
+
+}
+
+@media only screen and (max-width:426px) and (min-width: 377px) {
+
+
+    .valuetext2,
+    .cont4text,
+    .calltext,
+    .busitext,
+    .fottmailtext,
+    .footloctext,
+    .companydec,
+    .footabout dl dd,
+    .event dl dd,
+    .copyrighttext {
+        font-size: 14px;
+
+    }
+
+
+
+    .bannerbotimg {
+        height: 90px;
+        width: 180px;
+        margin-top: -50px;
+        margin-left: 50%;
+    }
+
+    .banslidimg {
+        margin-top: 90px;
+    }
+
+    .cont1head,
+    .milestonehead,
+    .managementhead {
+        font-size: 30px;
+    }
+
+    .year1,
+    .year2 {
+        font-size: 30px;
+
+    }
+
+}
+
+@media only screen and (max-width:376px) and (min-width: 321px) {
+
+    .busitext,
+    .fottmailtext,
+    .footloctext,
+    .companydec,
+    .footabout dl dd,
+    .event dl dd,
+    .copyrighttext {
+        font-size: 14px;
+
+    }
+
+    .year1,
+    .year2 {
+        font-size: 30px;
+
+    }
+
+
+    .bannerbotimg {
+        height: 60px;
+        width: 140px;
+        margin-top: -40px;
+        margin-left: 50%;
+    }
+
+    .banslidimg {
+        margin-top: 90px;
+    }
+
+    .cont1head,
+    .milestonehead,
+    .managementhead {
+        font-size: 30px;
+    }
+
+}
+
+@media only screen and (max-width:320px) and (min-width: 300px) {
+
+    .cont1head,
+    .milestonehead,
+    .managementhead {
+        font-size: 30px;
+    }
+
+    .year1,
+    .year2 {
+        font-size: 30px;
+
+    }
+
+    .calltext,
+    .busitext,
+    .fottmailtext,
+    .footloctext,
+    .companydec,
+    .footabout dl dd,
+    .event dl dd,
+    .copyrighttext {
+        font-size: 11px;
+
+    }
+
+
+
+    .banslidimg {
+        margin-top: 75px;
+    }
+
+
+    .bannerbotimg {
+        height: 60px;
+        width: 130px;
+        margin-top: -35px;
+        margin-left: 50%;
+    }
+
+    .cont1,
+    .cont3,
+    .cont4 {
+        margin-top: 50px;
+    }
+
+    .cont1head {
+
+        font-size: 30px;
+    }
+
+
+
+}
+
+@media only screen and (min-width:991px) {
+    .dashboardcont2 {
+        display: flex
+    }
+}
+
+@media only screen and (min-width:992px) {
+    .mbl {
+        display: none
+    }
+}
+
+@media only screen and (max-width:992px) {
+    .tab {
+        display: block;
+    }
+
+    .barsec {
+        margin-top: 40px;
+        width: 100% !important;
+        margin-left: auto;
+        margin-right: auto;
+        height: 50px;
+        margin-bottom: 30px;
+    }
+
+    .cont1text1 {
+        width: 100% !important;
+    }
+
+    .aboutimg {
+        width: 100%;
+    }
+
+    .aboutcont {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .desk {
+        display: none;
+    }
+}
+
+@media only screen and (max-width:992px) and (min-width:768px) {
+    .mbl {
+        display: none !important;
+    }
+
+    .leanbtn {
+        margin-top: 200px;
+    }
+
+    .ethishead,
+    .ethistext,
+    .leanbtn {
+        margin-left: 50px;
+    }
+}
+
+@media only screen and (max-width:900px) and (min-width:800px) {
+
+    .ethishead,
+    .ethistext,
+    .leanbtn {
+        margin-left: 80px !important;
+    }
+
+    .ethicsimg1 {
+        width: 400px;
+        height: 485.072px;
+        margin-top: -550px;
+    }
+}
+
+@media only screen and (max-width:800px) and (min-width:768px) {
+
+    .ethishead,
+    .ethistext,
+    .leanbtn {
+        margin-left: 100px !important;
+    }
+
+    .ethicsimg1 {
+        width: 350px;
+        height: 424.2px;
+        margin-top: -500px;
+    }
+}
+
+@media only screen and (max-width:767px) {
+
+    .milestonesec,
+    .milestonesec1 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    /* .ethicsimg,
+    .ethicsimg1 {
+        position: absolute;
+    } */
+
+    .ethicsimg {
+        width: 100%;
+        padding: 20px;
+
+    }
+
+    .ethicscont {
+        margin-top: 300px;
+
+    }
+
+    .cont4 {
+        margin-top: 100% !important;
+
+    }
+
+    .ethicsimg1 {
+        width: 100%;
+        height: 50%;
+        padding: 20px;
+        margin-top: -45%;
+
+    }
+
+    .corporate {
+        margin-top: 30px;
+    }
+
+    .leanbtn1 {
+        margin-bottom: 200px;
+    }
+
+    .corporate,
+    .corporatetext,
+    .leanbtn1 {
+        margin-left: 0px !important;
+    }
+
+    .ethistext,
+    .corporatetext {
+        width: 100% !important;
+    }
+
+    .leanbtn {
+        margin-top: 10px;
+    }
+
+    .tab {
+        display: none;
+    }
+
+    .finaltext {
+        margin-top: 80%;
+    }
+
+    .home {
+        text-align: justify;
+    }
+}
+
+@media only screen and (max-width:380px) {
+    .finaltext {
+        margin-top: 90%;
+    }
+
+    .ethicsimg1 {
+        width: 100%;
+        height: 45%;
+    }
+}
+
+@media only screen and (max-width:340px) {
+    .finaltext {
+        margin-top: 90%;
+        text-align: justify;
+    }
+
+    .ethicsimg1 {
+        width: 100%;
+        height: 40%;
+    }
+}
